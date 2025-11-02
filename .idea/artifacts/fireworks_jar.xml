@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fireworks:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fireworks_jar</output-path>
+    <root id="archive" name="fireworks.jar">
+      <element id="module-output" name="fireworks" />
+    </root>
+  </artifact>
+</component>

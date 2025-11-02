@@ -1,0 +1,7 @@
+name: WelcomeFireworks
+version: 1.0
+main: me.pook.welcome.WelcomeFireworks
+api-version: 1.21
+commands:
+  fireworks:
+    description: Launches fireworks for a player
